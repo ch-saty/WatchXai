@@ -1,0 +1,563 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\VIKAS PANDEY\\Desktop\\WatchX-ai",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2023-11-24 13:40:27",
+            "filesum": 82,
+            "codesum": 31197,
+            "commentsum": 895,
+            "blanksum": 2826,
+            "statistics": {
+                ".json": {
+                    "code": 19116,
+                    "comment": 0,
+                    "blank": 5
+                },
+                ".js": {
+                    "code": 2642,
+                    "comment": 837,
+                    "blank": 634
+                },
+                ".lock": {
+                    "code": 9148,
+                    "comment": 30,
+                    "blank": 2120
+                },
+                ".css": {
+                    "code": 216,
+                    "comment": 6,
+                    "blank": 52
+                },
+                ".webmanifest": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".txt": {
+                    "code": 3,
+                    "comment": 1,
+                    "blank": 0
+                },
+                ".html": {
+                    "code": 71,
+                    "comment": 21,
+                    "blank": 15
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 17018,
+                    "comment": 0,
+                    "filename": "client\\package-lock.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 69,
+                    "comment": 0,
+                    "filename": "client\\package.json"
+                },
+                {
+                    "filename": "client\\public\\android-chrome-192x192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\public\\android-chrome-512x512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\public\\apple-touch-icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\public\\favicon-16x16.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\public\\favicon-32x32.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\public\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 15,
+                    "code": 71,
+                    "comment": 21,
+                    "filename": "client\\public\\index.html"
+                },
+                {
+                    "filename": "client\\public\\logo192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\public\\logo512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "client\\public\\manifest.json"
+                },
+                {
+                    "filename": "client\\public\\preloaader.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "client\\public\\robots.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "client\\public\\site.webmanifest"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "client\\src\\App.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 47,
+                    "comment": 12,
+                    "filename": "client\\src\\App.js"
+                },
+                {
+                    "filename": "client\\src\\bg1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\src\\bgv.mp4",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\src\\brand2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 18,
+                    "code": 57,
+                    "comment": 32,
+                    "filename": "client\\src\\components\\auth\\Login.js"
+                },
+                {
+                    "blank": 18,
+                    "code": 180,
+                    "comment": 43,
+                    "filename": "client\\src\\components\\auth\\Register.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\config\\particles-config.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": "client\\src\\components\\dashboard\\comparator.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 33,
+                    "comment": 13,
+                    "filename": "client\\src\\components\\dashboard\\Dashboard.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "client\\src\\components\\dashboard\\generateCode.js"
+                },
+                {
+                    "blank": 51,
+                    "code": 336,
+                    "comment": 56,
+                    "filename": "client\\src\\components\\dashboard\\LogsTable.js"
+                },
+                {
+                    "blank": 24,
+                    "code": 240,
+                    "comment": 38,
+                    "filename": "client\\src\\components\\dashboard\\ProfDashboard.js"
+                },
+                {
+                    "blank": 17,
+                    "code": 121,
+                    "comment": 20,
+                    "filename": "client\\src\\components\\dashboard\\StudentDashboard.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 22,
+                    "comment": 1,
+                    "filename": "client\\src\\components\\exam_page\\404.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 46,
+                    "comment": 2,
+                    "filename": "client\\src\\components\\exam_page\\Dashboard2.css"
+                },
+                {
+                    "blank": 8,
+                    "code": 41,
+                    "comment": 3,
+                    "filename": "client\\src\\components\\exam_page\\Detections.css"
+                },
+                {
+                    "blank": 10,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\exam_page\\ExamPage.css"
+                },
+                {
+                    "blank": 27,
+                    "code": 130,
+                    "comment": 38,
+                    "filename": "client\\src\\components\\exam_page\\Object_Detection.js"
+                },
+                {
+                    "blank": 34,
+                    "code": 170,
+                    "comment": 37,
+                    "filename": "client\\src\\components\\exam_page\\page.js"
+                },
+                {
+                    "blank": 54,
+                    "code": 85,
+                    "comment": 16,
+                    "filename": "client\\src\\components\\exam_page\\pose.js"
+                },
+                {
+                    "blank": 17,
+                    "code": 85,
+                    "comment": 13,
+                    "filename": "client\\src\\components\\exam_page\\Pose_Detection.js"
+                },
+                {
+                    "blank": 39,
+                    "code": 170,
+                    "comment": 43,
+                    "filename": "client\\src\\components\\exam_page\\TestPage.js"
+                },
+                {
+                    "filename": "client\\src\\components\\exam_page\\warning copy.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\src\\components\\exam_page\\warning.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\src\\components\\layout\\icon-close.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "client\\src\\components\\layout\\icon-menu.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 7,
+                    "code": 78,
+                    "comment": 10,
+                    "filename": "client\\src\\components\\layout\\Landing.js"
+                },
+                {
+                    "blank": 22,
+                    "code": 89,
+                    "comment": 1,
+                    "filename": "client\\src\\components\\layout\\Navbar.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 21,
+                    "comment": 9,
+                    "filename": "client\\src\\components\\layout\\Navbar.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 81,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\Particlesbackground.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "client\\src\\darkMode.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "client\\src\\index.css"
+                },
+                {
+                    "blank": 6,
+                    "code": 10,
+                    "comment": 3,
+                    "filename": "client\\src\\index.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 23,
+                    "comment": 7,
+                    "filename": "client\\src\\PrivateRoute.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 27,
+                    "comment": 15,
+                    "filename": "client\\src\\reducers\\authReducer.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 10,
+                    "comment": 6,
+                    "filename": "client\\src\\reducers\\errorReducer.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 7,
+                    "comment": 6,
+                    "filename": "client\\src\\reducers\\index.js"
+                },
+                {
+                    "blank": 19,
+                    "code": 52,
+                    "comment": 59,
+                    "filename": "client\\src\\RegisterLog\\authActions.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 30,
+                    "comment": 27,
+                    "filename": "client\\src\\RegisterLog\\login.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 30,
+                    "comment": 27,
+                    "filename": "client\\src\\RegisterLog\\loginUser.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 15,
+                    "comment": 17,
+                    "filename": "client\\src\\RegisterLog\\logout.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 15,
+                    "comment": 21,
+                    "filename": "client\\src\\RegisterLog\\register.js"
+                },
+                {
+                    "blank": 7,
+                    "code": 15,
+                    "comment": 18,
+                    "filename": "client\\src\\RegisterLog\\registerUser.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 3,
+                    "filename": "client\\src\\RegisterLog\\types.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 10,
+                    "comment": 17,
+                    "filename": "client\\src\\setAuthToken.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 13,
+                    "comment": 6,
+                    "filename": "client\\src\\store.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 2,
+                    "filename": "client\\src\\utils\\setAuthToken.js"
+                },
+                {
+                    "blank": 2120,
+                    "code": 9148,
+                    "comment": 30,
+                    "filename": "client\\yarn.lock"
+                },
+                {
+                    "blank": 0,
+                    "code": 1955,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 4,
+                    "comment": 9,
+                    "filename": "server\\config\\keys.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 22,
+                    "comment": 9,
+                    "filename": "server\\config\\passport.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 41,
+                    "comment": 8,
+                    "filename": "server\\index.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 29,
+                    "comment": 8,
+                    "filename": "server\\models\\Exam.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 29,
+                    "comment": 8,
+                    "filename": "server\\models\\Exams.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 47,
+                    "comment": 8,
+                    "filename": "server\\models\\Logs.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 21,
+                    "comment": 9,
+                    "filename": "server\\models\\Users.js"
+                },
+                {
+                    "blank": 19,
+                    "code": 27,
+                    "comment": 13,
+                    "filename": "server\\routes\\api\\dash.js"
+                },
+                {
+                    "blank": 26,
+                    "code": 47,
+                    "comment": 39,
+                    "filename": "server\\routes\\api\\Exams.js"
+                },
+                {
+                    "blank": 12,
+                    "code": 30,
+                    "comment": 21,
+                    "filename": "server\\routes\\api\\Logs.js"
+                },
+                {
+                    "blank": 18,
+                    "code": 78,
+                    "comment": 30,
+                    "filename": "server\\routes\\api\\Users.js"
+                },
+                {
+                    "blank": 30,
+                    "code": 30,
+                    "comment": 12,
+                    "filename": "server\\validation\\CreateExam.js"
+                },
+                {
+                    "blank": 30,
+                    "code": 30,
+                    "comment": 12,
+                    "filename": "server\\validation\\Exam.js"
+                },
+                {
+                    "blank": 17,
+                    "code": 19,
+                    "comment": 9,
+                    "filename": "server\\validation\\login.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 34,
+                    "comment": 15,
+                    "filename": "server\\validation\\register.js"
+                },
+                {
+                    "filename": "WatchX.zip",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                }
+            ]
+        }
+    ]
+}
